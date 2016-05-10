@@ -10,7 +10,6 @@ import UIKit
 
 class PlanetTableViewController: UITableViewController {
 
-
     override func viewDidLoad() {
         super.viewDidLoad()
 

@@ -6,10 +6,10 @@
 //  Copyright © 2015 DevMountain. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 class PlanetController {
-    
+
     static var planets: [Planet] {
         let mercury = Planet(name: "Mercury", diameter: 4879, dayLength: 4222.6, millionKMsFromSun: 57.9)
         
