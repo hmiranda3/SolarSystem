@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		28E339CB1CE2CFCA000D3891 /* PlanetDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E339CA1CE2CFCA000D3891 /* PlanetDetailViewController.swift */; };
 		68816A7C1BBB3591000569CE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68816A7B1BBB3591000569CE /* AppDelegate.swift */; };
 		68816A811BBB3591000569CE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68816A7F1BBB3591000569CE /* Main.storyboard */; };
 		68816A831BBB3591000569CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68816A821BBB3591000569CE /* Assets.xcassets */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		28E339CA1CE2CFCA000D3891 /* PlanetDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlanetDetailViewController.swift; sourceTree = "<group>"; };
 		68816A781BBB3591000569CE /* SolarSystem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SolarSystem.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68816A7B1BBB3591000569CE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		68816A801BBB3591000569CE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 				E2F139F91CE2811600B301B8 /* PlanetTableViewController.swift */,
 				E2F139FB1CE2850C00B301B8 /* PlanetListViewController.swift */,
 				68816A7F1BBB3591000569CE /* Main.storyboard */,
+				28E339CA1CE2CFCA000D3891 /* PlanetDetailViewController.swift */,
 				68816AAA1BBB35E8000569CE /* Planet.swift */,
 				68816A821BBB3591000569CE /* Assets.xcassets */,
 				68816A841BBB3591000569CE /* LaunchScreen.storyboard */,
@@ -270,6 +273,7 @@
 				68816AAB1BBB35E8000569CE /* PlanetController.swift in Sources */,
 				E2F139FA1CE2811600B301B8 /* PlanetTableViewController.swift in Sources */,
 				68816A7C1BBB3591000569CE /* AppDelegate.swift in Sources */,
+				28E339CB1CE2CFCA000D3891 /* PlanetDetailViewController.swift in Sources */,
 				68816AAC1BBB35E8000569CE /* Planet.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
